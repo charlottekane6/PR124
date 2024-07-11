@@ -1,0 +1,19 @@
+p {
+    color:palevioletred;
+    font-size: 30px;
+}
+h1,em {
+    color: blue;
+}
+.container {
+    background-color: aquamarine;
+}
+
+*{ /* Permet de modifier toutes les balises contenues dans le fichier html*/
+    color:purple;
+    background-color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2+p { /* Sélécteur avancé A+B */
+    color: brown;
+}

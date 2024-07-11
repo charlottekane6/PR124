@@ -1,0 +1,41 @@
+.Ligne{
+    background-color: black;
+    color:white;
+    text-align: center;
+    
+}
+.Ligne10{
+    background-color: black;
+    color:white;
+    text-align: right;
+}
+.Ligne2{
+    background-color:gray;
+    color:white;
+    text-align: center;
+}
+.Ligne3{
+    background-color:red;
+    color:white;
+    text-align: center;
+}
+.Ligne4{
+    background-color:green;
+    color:white;
+    text-align: center;
+}
+.Ligne5{
+    background-color:yellow;
+    color:white;
+    text-align: center;
+}
+.Ligne6{
+    background-color:blue;
+    color:white;
+    text-align: center;
+}
+.Ligne7{
+    background-color:gray;
+    color:white;
+    text-align: center;
+}
